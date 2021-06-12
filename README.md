@@ -3,11 +3,11 @@
 
 This repository provides the dataset and code used in "VIGOR : Cross-View Image Geo-localization beyond One-to-one Retrieval".
 ```bash
-@article{zhu2020vigor,
+@inproceedings{zhu2021vigor,
   title={VIGOR: Cross-View Image Geo-localization beyond One-to-one Retrieval},
   author={Zhu, Sijie and Yang, Taojiannan and Chen, Chen},
-  journal={arXiv preprint arXiv:2011.12172},
-  year={2020}
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2021}
 }
 ```
 
