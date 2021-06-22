@@ -7,6 +7,7 @@ This repository provides the dataset and code used in "VIGOR : Cross-View Image 
   title={VIGOR: Cross-View Image Geo-localization beyond One-to-one Retrieval},
   author={Zhu, Sijie and Yang, Taojiannan and Chen, Chen},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={3640--3649},
   year={2021}
 }
 ```
