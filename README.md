@@ -1,7 +1,7 @@
 # VIGOR : Cross-View Image Geo-localization beyond One-to-one Retrieval
 <img width=913 height=300 src="data/Architecture.jpg"/>
 
-This repository provides the dataset and code used in "VIGOR : Cross-View Image Geo-localization beyond One-to-one Retrieval".
+This repository provides the dataset and code used in "[VIGOR : Cross-View Image Geo-localization beyond One-to-one Retrieval](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_VIGOR_Cross-View_Image_Geo-Localization_Beyond_One-to-One_Retrieval_CVPR_2021_paper.pdf)".
 ```bash
 @inproceedings{zhu2021vigor,
   title={VIGOR: Cross-View Image Geo-localization beyond One-to-one Retrieval},
