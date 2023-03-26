@@ -13,7 +13,7 @@ This repository provides the dataset and code used in "[VIGOR : Cross-View Image
 ```
 
 ## Dataset
-Please follow the [guideline](./data/DATASET.md) to download and prepare the dataset. 
+Please follow the [guideline](./data/DATASET.md) to download and prepare the dataset. For the resolution [issue](https://github.com/Jeff-Zilence/VIGOR/issues/2), authors of [SliceMatch](https://github.com/tudelft-iv/SliceMatch) has measured the resolution of all cities and revised the label. If you want to use this label, you may find it at their github [repo](https://github.com/tudelft-iv/SliceMatch).
 <img width=781 height=300 src="data/collection.jpg"/>
 
 ## Requirement
